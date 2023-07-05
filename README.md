@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native, MERN**
 
-- 📝 I regularly write articles on [https://medium.com/@kamidugayantha123](https://medium.com/@kamidugayantha123)
+- 📝 I regularly write articles on [https://medium.com/@kamindugayantha](https://medium.com/@kamindugayantha)
 
 - 💬 Ask me about **React , Node , Android**
 
